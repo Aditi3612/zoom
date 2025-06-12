@@ -18,7 +18,7 @@ A **full-stack video conferencing web application** built with React, WebRTC, an
 
 
 
-![Zoom Clone Architecture](assets/zoom-flowchart.png)
+![Zoom Clone Architecture](https://github.com/Aditi3612/zoom/blob/main/Flowchart_project.png)
 
 > This diagram shows the end-to-end flow: from joining a room to peer-to-peer video communication setup using WebRTC and Socket.IO.
 
